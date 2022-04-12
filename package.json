@@ -1,5 +1,5 @@
 {
-  "name": "tiptap-vuetify",
+  "name": "tiptap-vuetify-nuxt",
   "version": "2.24.0",
   "license": "MIT",
   "scripts": {
@@ -80,6 +80,7 @@
   "keywords": [
     "editor",
     "vuetify",
+    "nuxt",
     "tiptap",
     "vue.js",
     "material design",
@@ -88,13 +89,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iliyaZelenko/tiptap-vuetify.git"
+    "url": "git+https://github.com/manofprog/tiptap-vuetify-nuxt"
   },
   "bugs": {
     "url": "https://github.com/iliyaZelenko/tiptap-vuetify/issues"
   },
   "homepage": "https://github.com/iliyaZelenko/tiptap-vuetify#readme",
-  "description": "Vuetify WYSIWYG editor based on Tiptap.",
+  "description": "Vuetify editor based on Tiptap fixed error with nuxt.",
   "author": "Ilya Zelenko",
   "main": "dist/bundle-umd.js",
   "module": "dist/bundle-esm.js",
