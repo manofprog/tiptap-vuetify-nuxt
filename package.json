@@ -1,6 +1,6 @@
 {
   "name": "tiptap-vuetify-nuxt-fixed",
-  "version": "2.24.0",
+  "version": "2.25.0",
   "license": "MIT",
   "scripts": {
     "commit": "git-cz",

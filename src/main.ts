@@ -1,9 +1,9 @@
-import TiptapVuetify from '~/components/TiptapVuetify.vue'
-import theme from '~/configs/theme'
+import TiptapVuetify from '../src/components/TiptapVuetify.vue'
+import theme from '../src/configs/theme'
 import { OptionsInterface, PluginInterface } from '../types'
-import ConsoleLogger from '~/logging/ConsoleLogger'
+import ConsoleLogger from '../src/logging/ConsoleLogger'
 
-export * from '~/extensions/nativeExtensions/index'
+export * from '../src/extensions/nativeExtensions/index'
 export { TiptapVuetify }
 
 // дефолтный экспорт не подходит и это плохая практика:
