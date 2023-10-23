@@ -1,5 +1,5 @@
 {
-  "name": "tiptap-vuetify-nuxt-fixed",
+  "name": "samofprog-tiptap-vuetify-nuxt",
   "version": "2.25.0",
   "license": "MIT",
   "scripts": {
@@ -89,7 +89,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manofprog/tiptap-vuetify-nuxt"
+    "url": "git+https://github.com/samofprog/tiptap-vuetify-nuxt"
   },
   "bugs": {
     "url": "https://github.com/iliyaZelenko/tiptap-vuetify/issues"
